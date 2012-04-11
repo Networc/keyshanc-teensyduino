@@ -10,7 +10,7 @@ For a more detailed explanation of the Keyshanc Teensyduino and how to assemble 
 
 ###File List
 * <b>keyshanc.ino</b>: This is the source code for the Keyshanc Teensyduino.
-* <bkeyshancGenerator.cpp</b>: This program creates 11 Keyshanc ciphers and outputs C++ code that can be copied and pasted into keyshanc.ino.
+* <b>keyshancGenerator.cpp</b>: This program creates 11 Keyshanc ciphers and outputs C++ code that can be copied and pasted into keyshanc.ino.
 
 ###What is required in order to use the Keyshanc Teensyduino?
 Nothing is required to be installed on the workstation itself. That was one of the primary design goals.
