@@ -15,7 +15,7 @@ For a more detailed explanation of the Keyshanc Teensyduino and how to assemble 
 ###What is required in order to use the Keyshanc Teensyduino?
 Nothing is required to be installed on the workstation itself. That was one of the primary design goals.
 
-What <b>is</b> required is that the receiving application must be Keyshanc\-enabled \(I have an example console application in my [Keyshanc](https://github.com/Networc/keyshanc) repo\). The best method would be for the receiving application to allow the user to graphically enter the Keyshanc password currently being used.
+What <b>is</b> required is that the receiving application must be Keyshanc\-enabled \(I have an example console application in my [Keyshanc](https://github.com/Networc/keyshanc) repo and an example website [here](http://andrewcreed.com/2012/04/12/keyshanc-demo.html)\). The best method would be for the receiving application to allow the user to graphically enter the Keyshanc password currently being used.
 
 <b>This is where I need help from the open source community</b>. I have developed the algorithm and an inexpensive hardware implementation, but I need members of the community to adopt Keyshanc and incorporate it in their own programs/websites.
 
