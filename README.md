@@ -19,6 +19,36 @@ What <b>is</b> required is that the receiving application must be Keyshanc\-enab
 
 <b>This is where I need help from the open source community</b>. I have developed the algorithm and an inexpensive hardware implementation, but I need members of the community to adopt Keyshanc and incorporate it in their own programs/websites.
 
+###Custom special key codes in PS2Keyboard.h:
+<pre><code>
+#define PS2_TAB         9
+#define PS2_ENTER       13
+#define PS2_BACKSPACE   1
+#define PS2_ESC         27
+#define PS2_INSERT      2
+#define PS2_DELETE      127
+#define PS2_HOME        3
+#define PS2_END         4
+#define PS2_PAGEUP      25
+#define PS2_PAGEDOWN    26
+#define PS2_UPARROW     11
+#define PS2_LEFTARROW   8
+#define PS2_DOWNARROW   10
+#define PS2_RIGHTARROW  21
+#define PS2_F1          5
+#define PS2_F2          6
+#define PS2_F3          7
+#define PS2_F4          12
+#define PS2_F5          14
+#define PS2_F6          15
+#define PS2_F7          16
+#define PS2_F8          17
+#define PS2_F9          18
+#define PS2_F10         19
+#define PS2_F11         20
+#define PS2_F12         22
+#define PS2_SCROLL      0</code></pre>
+
 ###License
 Keyshanc is licensed under the MIT License (see LICENSE.txt).
 
